@@ -1,3 +1,10 @@
+Fixes:
+Use inline resources and why_run support
+Log Spice cookbook
+
+
+
+
 # CHANGELOG for chef-logstash
 
 This file is used to list changes made in each version of chef-logstash.
